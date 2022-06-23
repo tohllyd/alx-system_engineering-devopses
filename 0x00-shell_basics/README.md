@@ -8,3 +8,4 @@ Listed below are the instructions for the project
 6)mkdir /tmp/my_first_directory
 7)
 8)rm to delete files from directory
+9)rm -r to remove directories
