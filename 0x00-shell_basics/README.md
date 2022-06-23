@@ -5,3 +5,4 @@ Listed below are the instructions for the project
 3)ls -l
 4)ls -la
 5)ls -na
+6)mkdir /tmp/my_first_directory
