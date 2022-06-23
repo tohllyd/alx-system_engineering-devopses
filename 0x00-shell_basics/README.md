@@ -4,3 +4,4 @@ Listed below are the instructions for the project
 2)cd
 3)ls -l
 4)ls -la
+5)ls -na
